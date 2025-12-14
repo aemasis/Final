@@ -101,7 +101,6 @@ a:hover {
     height: auto;
     max-height: 500px;
     object-fit: contain;
-    border: 3px solid #d4b896;
     border-radius: 5px;
 }
 
