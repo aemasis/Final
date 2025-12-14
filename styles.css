@@ -81,7 +81,7 @@ a:hover {
 
 #main-navigation a:hover {
     background-color: #d4b896;
-    border-radius: 5px;
+    border-radius: 0px;
     text-decoration: none;
 }
 
